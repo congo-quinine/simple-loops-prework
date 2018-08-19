@@ -60,7 +60,7 @@ def for_iterator(number_of_times)
 
   phrase = "Welcome to Flatiron School's Web Development Course!"
 
-  for poop in number_of_times do
+  for counter in number_of_times do
     puts phrase
   end
 
