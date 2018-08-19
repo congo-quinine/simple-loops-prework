@@ -27,13 +27,9 @@ def times_iterator(number_of_times)
   number_of_times.times do
     puts phrase
   end
-  
-end
-  
-
-
 
 end
+
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
